@@ -39,6 +39,18 @@ function App() {
       <MainContent />
       <MainContent />
       <Footer />
+
+      <h2>User Profiles</h2>
+      <UserProfile 
+      name='Rasaq Ola'
+      age='28'
+      bio='Frontend Developer'
+      />
+      <UserProfile 
+      name='Israel'
+      age='32'
+      bio='Backend Developer'
+      />
     </>
   )
 }
