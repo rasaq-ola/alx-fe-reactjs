@@ -42,9 +42,9 @@ function App() {
 
       <h2>User Profiles</h2>
       <UserProfile 
-      name='Rasaq Ola'
-      age='28'
-      bio='Frontend Developer'
+      name='Alice'
+      age='25'
+      bio='Loves hiking and photography'
       />
       <UserProfile 
       name='Israel'
